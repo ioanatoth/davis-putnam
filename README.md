@@ -1,4 +1,4 @@
-Algoritm DP care analizeaza satisfiabilitatea unor clauze introduse de la tastatura, retinand timpul de executie, memoria ocupata, nr de clauze si de literali/clauza. Sunt atasate mai jos si niste fisiere .cnf cu date de test. Este atasat codul pentru generarea de clauze, folosind parametri script de forma:
+# Algoritm DP care analizeaza satisfiabilitatea unor clauze introduse de la tastatura, retinand timpul de executie, memoria ocupata, nr de clauze si de literali/clauza. Sunt atasate mai jos si niste fisiere .cnf cu date de test. Este atasat codul pentru generarea de clauze, folosind parametri script de forma:
 
 --clause-count
 
